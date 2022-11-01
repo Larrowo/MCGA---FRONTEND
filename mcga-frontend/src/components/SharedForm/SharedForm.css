@@ -1,0 +1,13 @@
+.form {
+  display: flex;
+}
+
+.upperDiv {
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin: 10px 0px;
+}
